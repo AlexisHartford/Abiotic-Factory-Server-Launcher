@@ -1,4 +1,5 @@
 # Abiotic-Factory-Server-Launcher <br />
+[Virus Scan](https://www.virustotal.com/gui/url/98fcd9ffb8880545ae03bfa34a9c23b530048c38d2846b1f043fc3a837cac1c3?nocache=1). <br />
 This is a Unofficial Server Launcher Made By a Fan To Help Player Create Servers A lot Faster. <br />
 Here a Server launcher i made. <br />
 Extract into a Folder <br />
