@@ -14,6 +14,7 @@ Join the Server
 
 then after at least one player has joined the server you can edit the Sandbox Settings and Admin/Bans
 after you edit them Click the Save button in the top Right
+
 ![Screenshot 2024-06-07 001726](https://github.com/AlexisHartford/Abiotic-Factory-Server-Launcher/assets/12422656/1ae42c55-f72d-48e0-9f4f-302a6040b60d)
 ![Screenshot 2024-06-07 001755](https://github.com/AlexisHartford/Abiotic-Factory-Server-Launcher/assets/12422656/041a0126-68e6-4e09-97e1-bc821933ce44)
 ![Screenshot 2024-06-07 001807](https://github.com/AlexisHartford/Abiotic-Factory-Server-Launcher/assets/12422656/27c9031a-172a-4d83-9c9e-a9608c9f28ff)
